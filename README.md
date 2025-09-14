@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="ClashRoyaleAppIcon.png"/>
+  <img src="ClashRoyaleAppIcon.png" width="150"/>
 </p>
 
 # ⚔️ Google Play Games Clash Royale controls👑
